@@ -10,20 +10,6 @@ class Foobar
     sum = 0
     result.each { |x| sum += x}
     sum
-  # res = a
-  # size = a.length 
-  # ind = 0
-
-  # while size > 0 do
-  # 	res[ind] = res[ind].to_i
-  # 	res[ind] += 2 
-  # 	size -=1
-  # 	ind+=1
-  # end
-  
-  # finay = Array.new(a.length)
-  # while 
-
 
   end
 end
